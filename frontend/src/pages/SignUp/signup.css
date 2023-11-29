@@ -1,0 +1,98 @@
+.main {
+    display: flex;
+    width: 80%;
+    height: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding-bottom: 2%;
+
+}
+
+.main p {
+    font-size: 14px;
+}
+
+
+.main h2 {
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.form p {
+    align-self: center;
+    width: 60%;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    padding: 64px;
+    border: solid 14px #8C52FF;
+    width: 50%;
+    background-color: #27282D;
+}
+
+.form input {
+    border: none;
+    background-color: #1E1E1E;
+    width: 100%;
+    margin-left: 16px;
+    font-family: 'Inter';
+
+}
+
+.form input:focus {
+    outline: none;
+}
+
+.form div {
+    align-self: center;
+    width: 60%;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    background-color: #1E1E1E;
+    margin-bottom: 2%;
+}
+
+.form div:focus-within {
+    outline: 2px solid #8C52FF;
+    outline-offset: 2px;
+}
+
+.form textarea {
+    align-self: center;
+    width: 60%;
+    background-color: #1E1E1E;
+    border: none;
+    padding: 8px;
+    resize: none;
+    font-family: 'Inter';
+}
+
+.form textarea:focus {
+    outline: 2px solid #8C52FF;
+    outline-offset: 2px;
+}
+
+.form button {
+    align-self: center;
+    width: 60%;
+    padding: 8px;
+    margin-top: 2%;
+    border: none;
+    background-color: #48FD5A;
+    color: #000;
+    font-family: 'Press Start 2P';
+}
+
+.form button:hover {
+    cursor: pointer;
+    background-color: #225027;
+}
+

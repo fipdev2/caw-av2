@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+    width: 80%;
+    align-self: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-top: 1px solid gray;
+    flex-direction: column;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+.footer a:hover{
+    cursor: pointer;
+    color:#8C52FF;
+}
+
+.footer p {
+    font-family: 'Inter';
+    font-size: small;
+    font-weight: 300;
+}
+
+.social {
+    display: flex;
+    align-self: center;
+    gap: 16px;
+}

@@ -1,0 +1,23 @@
+<svg width="1126" height="427" viewBox="0 0 1126 427" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" width="900" height="425" fill="#27282D"/>
+<circle cx="451" cy="188" r="65" fill="#393B41"/>
+<path d="M483 188L434.25 215.713V160.287L483 188Z" fill="#D9D9D9"/>
+<rect x="939" width="187" height="122" fill="#27282D"/>
+<rect x="939" y="149" width="187" height="122" fill="#27282D"/>
+<rect x="939" y="303" width="187" height="122" fill="#27282D"/>
+<circle cx="1033" cy="61" r="34" fill="#393B41"/>
+<path d="M1049.74 61L1024.24 75.4959V46.5041L1049.74 61Z" fill="#D9D9D9"/>
+<circle cx="1033" cy="209" r="34" fill="#393B41"/>
+<path d="M1049.74 209L1024.24 223.496V194.504L1049.74 209Z" fill="#D9D9D9"/>
+<circle cx="1033" cy="364" r="34" fill="#393B41"/>
+<path d="M1049.74 364L1024.24 378.496V349.504L1049.74 364Z" fill="#D9D9D9"/>
+<rect y="394" width="900" height="33" fill="#212226"/>
+<path d="M17 405.804L26 411L17 416.196V405.804Z" stroke="#8C52FF" stroke-width="2"/>
+<path d="M81 416.196L72 411L81 405.804V416.196Z" stroke="#8C52FF" stroke-width="2"/>
+<path d="M100 405.804L109 411L100 416.196V405.804Z" stroke="#8C52FF" stroke-width="2"/>
+<line x1="111" y1="403" x2="111" y2="419" stroke="#8C52FF" stroke-width="2"/>
+<line x1="70" y1="403" x2="70" y2="419" stroke="#8C52FF" stroke-width="2"/>
+<line x1="140.998" y1="409.451" x2="726.002" y2="409.451" stroke="#1E1D21" stroke-width="3"/>
+<line x1="141" y1="409.5" x2="191" y2="409.5" stroke="#8C52FF" stroke-width="3"/>
+<circle cx="191.5" cy="409.5" r="2.5" fill="#D9D9D9"/>
+</svg>
